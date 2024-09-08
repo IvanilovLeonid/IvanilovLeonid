@@ -12,6 +12,8 @@ I'm a software engineer from Moscow and currently studying at the Higher School 
 
 I'm currently involved in several backend development projects, focusing on performance optimization, scalable architectures, and integrating modern technologies to enhance functionality.
 
+main project right now is about website for a student initiation event and I am directly involved in this project.
+
 ## Education
 
 - Higher School of Economics, Moscow
