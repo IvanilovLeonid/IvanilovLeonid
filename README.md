@@ -17,6 +17,7 @@ main project right now is about website for a student initiation event and I am 
 ## Education
 
 - Higher School of Economics, Moscow
+- Now i am studiing in SCHOOL 21 by SberBank and learning c++.
 
 ## Links
 
