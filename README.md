@@ -4,15 +4,13 @@ I'm a software engineer from Moscow and currently studying at the Higher School 
 
 ## Skills & Expertise
 
-- **Languages**: C++, Python, C.
-- **Tools & Technologies**: Docker, HTTP, Algorithms, etc.
+- **Languages**: C++, Python, C, Golang
+- **Tools & Technologies**: Docker, HTTP, Algorithms, nginx, .
 - **Principles**: OOP.
 
 ## What I'm Working On
 
-I'm currently involved in several backend development projects, focusing on performance optimization, scalable architectures, and integrating modern technologies to enhance functionality.
-
-main project right now is about website for a student initiation event and I am directly involved in this project.
+I'm currently involved in several services development projects, focusing on performance optimization, scalable architectures, and integrating modern technologies to enhance functionality.
 
 ## Education
 
