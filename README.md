@@ -1,14 +1,86 @@
-# Hi I'm Leonid!
+# Иванилов Леонид
 
-I'm a ml-engineer from Moscow and currently studying at the Higher School of Economics.
+**Junior Data Scientist / ML Engineer** · антифрод, антибот, рекомендательные системы, NLP/LLM
 
-## Education
+Москва · +7 915 286 49 97 · [lmivanilov@edu.hse.ru](mailto:lmivanilov@edu.hse.ru) · Telegram: [@yogurttt](https://t.me/yogurttt) · GitHub: [IvanilovLeonid](https://github.com/IvanilovLeonid)
 
-- Higher School of Economics, Moscow
-- Now i am studiing in SCHOOL 21 by SberBank and learning c++.
+**Ищу:** стажировку или позицию Junior Data Scientist / ML Engineer
 
-## Links
+---
 
-- https://t.me/yogurttt
-- ivanilov2014@gmail.com
-- https://leetcode.com/u/banka_s_tuncom/
+## Профиль
+
+Junior Data Scientist с коммерческим опытом в Яндексе (команда коммерческих проектов Капчи / ML-WAF): production ML-пайплайны многоклассовой классификации, анализ логов и аномального трафика в ClickHouse и YQL, антибот и защита от DDoS-атак, автоматизация разметки и аугментации данных, дашборды в DataLens, дежурства (on-call) и работа с B2B-клиентами.
+
+Студент НИУ ВШЭ (Информатика и вычислительная техника, выпуск 2027, майнор «Нейросетевые технологии»). Проекты по рекомендательным системам (RecSys, исследовательская практика VK), NLP/LLM и временным рядам.
+
+## Опыт работы
+
+### Яндекс — Junior Data Scientist
+*Команда коммерческих проектов Капчи (SmartCaptcha, ML-WAF) · июль 2025 — март 2026*
+
+- Реализовал пайплайн обучения модели многоклассовой классификации для ML-WAF в Nirvana — от подготовки данных до обучения — и автоматизировал регулярное переобучение модели без ручного вмешательства.
+- Автоматизировал разметку обучающих данных, аугментацию, очистку и контроль качества датасетов для дообучения ML-моделей, снизив долю ручной разметки и обработки данных.
+- Анализировал логи и событийные данные ML-WAF (Machine Learning Web Application Firewall) в ClickHouse и YQL: выявлял аномалии и уязвимости в защите от подозрительной и автоматизированной (бот-) активности.
+- Участвовал в отражении DDoS-атак и других атак вместе с Антироботом: анализировал аномальный трафик во время инцидентов.
+- Разрабатывал регулярные выражения (regex-сигнатуры) для детекции вредоносного и автоматизированного трафика.
+- Применил кластеризацию для исследовательского анализа данных (EDA): выявленные паттерны поведения пользователей использованы для доработки правил детекции.
+- Построил дашборды в DataLens для мониторинга трафика, атак и метрик модели.
+- Участвовал в дежурствах (on-call): поддерживал production ML-пайплайны и процессы подготовки данных совместно с командами разработки и безопасности.
+- Взаимодействовал с B2B-клиентами SmartCaptcha и ML-WAF по техническим вопросам защиты.
+
+**Стек:** Python, SQL, ClickHouse, YQL, pandas, NumPy, scikit-learn, Nirvana, DataLens, регулярные выражения (regex), Linux, Git, Docker
+
+## Образование
+
+### НИУ ВШЭ (Высшая школа экономики), Москва
+Бакалавриат «Информатика и вычислительная техника» · выпуск 2027 · GPA 7,9 / 10
+
+Майнор «Нейросетевые технологии»: машинное обучение, нейронные сети, кластеризация, обработка данных, математическая статистика.
+
+### Школа 21 (Сбер)
+Bootcamp Data Science
+
+## Проекты
+
+### [Влияние контентных эмбеддингов на гибридные рекомендательные системы (VK-LSVD)](https://github.com/IvanilovLeonid/vk_lsvd_project_ml)
+*Исследовательская практика VK*
+
+- Исследовал влияние контентных эмбеддингов видео на качество гибридной рекомендательной системы на датасете VK-LSVD.
+- Реализовал и сравнил алгоритмы коллаборативной фильтрации ItemKNN, ALS и собственную реализацию BPR на PyTorch.
+
+**Технологии:** Python, PyTorch, recommender systems, collaborative filtering, ItemKNN, ALS, BPR, embeddings
+
+### [LLM CV Matching — сервис сопоставления резюме и вакансий для HR](https://github.com/IvanilovLeonid/llm_service_cv)
+
+- Реализовал сервис парсинга PDF-вакансий и семантического сопоставления резюме с вакансиями на основе LLM и embeddings; API на FastAPI, база данных PostgreSQL.
+
+**Технологии:** Python, FastAPI, LLM, embeddings, PostgreSQL
+
+### [Прогнозирование повторных покупок на маркетплейсе (Olist Brazilian E-Commerce)](https://github.com/hsemlcourse/hseml-group-project-atomg0d)
+
+- Разработал ML-модель ранжирования товаров (рекомендательная система) для прогноза повторных покупок на публичном датасете Olist.
+
+**Технологии:** Python, pandas, scikit-learn, ranking, feature engineering
+
+### [Прогнозирование остаточного ресурса авиадвигателя (NASA C-MAPSS, Remaining Useful Life)](https://github.com/IvanilovLeonid/cmapss-rul-prediction)
+
+- Сравнил рекуррентную (LSTM) и сверточную (1D-CNN) нейросети для прогноза остаточного полезного ресурса (RUL) газотурбинного двигателя по временным рядам бортовых сенсоров.
+
+**Технологии:** Python, PyTorch, LSTM, 1D-CNN, time series, feature engineering
+
+## Навыки
+
+| Область | Навыки |
+|---|---|
+| **Языки программирования** | Python, SQL, Go (Golang), C++ |
+| **Машинное обучение (ML)** | классификация, кластеризация, ранжирование, feature engineering, EDA, временные ряды (time series), ML-пайплайны, scikit-learn, pandas, NumPy |
+| **Глубокое обучение (DL)** | PyTorch, LSTM, 1D-CNN, embeddings |
+| **Рекомендательные системы** | collaborative filtering, ItemKNN, ALS, BPR, гибридные рекомендации |
+| **NLP / LLM** | LLM, RAG, LangChain, embeddings, векторизация текста, семантический поиск |
+| **Антифрод / антибот / ИБ** | анализ логов, детекция аномалий, regex-сигнатуры, ML-WAF, защита от DDoS-атак и ботов |
+| **Данные и BI** | ClickHouse, YQL, PostgreSQL, DataLens |
+| **Инфраструктура** | Nirvana, Docker, Docker Compose, FastAPI, HTTP API, Git, Linux |
+| **Математика** | теория вероятностей, математическая статистика, линейная алгебра, алгоритмы и структуры данных |
+| **Английский язык** | B2 |
+| **LeetCode** | [banka_s_tuncom](https://leetcode.com/u/banka_s_tuncom) |
